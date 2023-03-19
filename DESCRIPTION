@@ -6,9 +6,10 @@ Author: Carson Howard <cjhoward92@gmail.com>
 Maintainer: Carson Howard <cjhoward92@gmail.com>
 Description: A polygon.io wrapper
     Use this package to call polygon.io in a tidyverse safe way!
-License: MIT
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+RoxygenNote: 7.2.3

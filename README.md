@@ -7,7 +7,7 @@
 <!-- badges: end -->
 
 The goal of polygonr is to make integration with the
-\[polygon.io\]\[<https://polygon.io>\] APIs simple within R.
+[polygon.io](https://polygon.io) APIs simple within R.
 
 ## Installation
 
